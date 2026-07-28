@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-vilrom.salamcuan.online/sitemap.xml
